@@ -6,5 +6,8 @@
 <li> C++ </li>
 <li> JavaScript </li>
 <li> Php </li>
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chra-o&show_icons=true&theme=radical)
 
  
