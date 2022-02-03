@@ -8,6 +8,7 @@
 <li> Php </li>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chra-o&show_icons=true&theme=radical)
+
+   >>>>>>[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chra-o&theme=radical)](https://git.io/streak-stats)
 
  
