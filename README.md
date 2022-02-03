@@ -4,7 +4,7 @@
 
 <div align="center" >
  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chra-o&theme=radical)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chra-o&theme=radical)](https://github.com/chra-O/Restaurant-Order)
  
 </div>
 <br>
