@@ -6,7 +6,7 @@
 
 
 <a align="center" href="https://github.com/chra-O/tailwindcss-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chra-o&repo=tailwindcss-Portfolio" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=chra-o&repo=tailwindcss-Portfolio" />
 </a>
 
  
