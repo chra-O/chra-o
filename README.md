@@ -6,7 +6,7 @@
 >Just Keep Going ..
 
 <a href="https://github.com/chra-O/tailwindcss-Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chra-o&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=chra&repo=github-readme-stats" />
 </a>
 
  
