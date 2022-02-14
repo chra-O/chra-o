@@ -1,4 +1,4 @@
-<img  src="https://cdn-icons-png.flaticon.com/128/3069/3069094.png" height="25" />
+<img  src="https://cdn-icons.flaticon.com/png/128/2713/premium/2713546.png?token=exp=1644865402~hmac=1917160021073ef818c083022fabbeb5" height="25" />
 
 > Bee
 
